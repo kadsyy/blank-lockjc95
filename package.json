@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/graceful-organization-dim1b.blank-lockjc95",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve J5S0S3236Wmn3zwMUJLU --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@style-dictionary-to-figma": "^0.4.0"
+  }
+}
