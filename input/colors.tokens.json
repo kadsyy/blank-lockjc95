@@ -47,11 +47,11 @@
       }
     },
     "primary": {
-      "value": "#3b25c8",
+      "value": "#c72455",
       "type": "color"
     },
     "secondary": {
-      "value": "#cde39d",
+      "value": "#9de3b2",
       "type": "color"
     },
     "ascent": {
