@@ -45,6 +45,18 @@
         "type": "color",
         "value": "#AAAAAA"
       }
+    },
+    "primary": {
+      "value": "#3b25c8",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#cde39d",
+      "type": "color"
+    },
+    "ascent": {
+      "value": "#e58a8a",
+      "type": "color"
     }
   },
   "$themes": [],
