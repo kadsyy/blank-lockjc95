@@ -1,10 +1,13 @@
 {
   "colors": {
-    "tokenset": "main",
+    "tokenset": {
+      "value": "main",
+      "type": "other"
+    },
     "accent": {
       "base": {
         "type": "color",
-        "value": "#F8C307"
+        "value": "#f707ab"
       },
       "bright": {
         "type": "color",
@@ -43,5 +46,11 @@
         "value": "#AAAAAA"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "colors"
+    ]
   }
 }
